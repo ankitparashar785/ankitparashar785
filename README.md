@@ -23,7 +23,7 @@
 ### 🔥 Streak Stats
 
 <div height="200px" width="100%"><img float="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=ankitparashar785&theme=radical" alt="ankitparashar"/>
-<img align="right" width="40%" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitparashar785&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+<img align="right" width="40%" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitparashar785&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
 </div>
 
 
