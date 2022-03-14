@@ -1,16 +1,33 @@
+
+
+
 ### Hi there 👋
 
-<!--
-**ankitparashar785/ankitparashar785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF007F&size=30&lines=I'm+Ankit+parashar)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on full stack web development
+</br>
+<p>Connect with me on
+  <br>
+<br>	  
+<a target="_blank" href="https://www.linkedin.com/in/ankit-parashar-12171a1b2/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:ankitparashar516@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+
+<br>
+</p>
+
+### 🔥 Streak Stats
+
+<div height="200px" width="100%"><img float="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=ankitparashar785&theme=radical" alt="ankitparashar"/>
+<img align="right" width="40%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitparashar785&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+</div>
+
+
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ankitparashar785&theme=radical&hide_border=true&area=true)
+
