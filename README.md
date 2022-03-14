@@ -22,12 +22,14 @@
 
 ### 🔥 Streak Stats
 
-<div height="200px" width="100%"><img float="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=ankitparashar785&theme=radical" alt="ankitparashar"/>
-<img align="right" width="40%" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitparashar785&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
-</div>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitparashar785&show_icons=true&locale=en&theme=radical" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitparashar785&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+</p>
+</br></br></br>
+
 
 
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ankitparashar785&theme=radical&hide_border=true&area=true)
-
